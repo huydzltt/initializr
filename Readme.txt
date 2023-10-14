@@ -1,0 +1,1 @@
+Đây là một dự án website bán vé xem phim, nơi người dùng có thể mua vé xem phim trực tuyến và trải nghiệm dịch vụ tiện ích. Website này giúp quản lý thông tin về các phim đang chiếu, lịch chiếu phim và mua vé một cách dễ dàng.
